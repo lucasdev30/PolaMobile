@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ressources>
+    <ap4 dateConcert="13 février 2025"  artiste="Artus" prixPlace="35" imgArtiste="artus"/>
+    <ap4 dateConcert="25 juin 2025"  artiste="baptiste Lecaplin" prixPlace="20" imgArtiste="baptiste_lecaplin"/>
+    <ap4 dateConcert="6 mai 2025"  artiste="Nordine" prixPlace="20" imgArtiste="nordine"/>
+    <ap4 dateConcert="18 juillet 2025"  artiste="Kyan Khojandi" prixPlace="40" imgArtiste="kyan_khojandi"/>
+    <ap4 dateConcert="30 novembre 2025"  artiste="Paul Mirabel" prixPlace="45" imgArtiste="paul_mirabel"/>
+
+</ressources>

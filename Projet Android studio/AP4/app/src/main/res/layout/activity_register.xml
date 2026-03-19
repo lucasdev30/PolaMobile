@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/title_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Inscription"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+
+    <LinearLayout
+        android:id="@+id/form_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title_register"
+        android:layout_marginTop="1dp"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_centerInParent="true">
+
+        <EditText
+            android:id="@+id/edt_last_name_register"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="Nom"
+            android:inputType="textPersonName"
+            android:layout_marginTop="16dp" />
+
+        <EditText
+            android:id="@+id/edt_first_name_register"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="Prénom"
+            android:inputType="textPersonName" />
+
+
+        <EditText
+            android:id="@+id/edt_age_register"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="Âge"
+            android:inputType="number"
+            android:layout_marginTop="16dp" />
+
+        <EditText
+            android:id="@+id/edt_email_register"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="@string/hint_email"
+            android:inputType="textEmailAddress"
+            android:layout_marginTop="16dp" />
+
+        <EditText
+            android:id="@+id/edt_pswd_register"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="@string/hint_psw"
+            android:inputType="textPassword"
+            android:layout_marginTop="16dp" />
+
+        <Button
+            android:id="@+id/btn_ok_register"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="@string/txtInscription"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/txt_deja_parmi_nous"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txt_deja_inscrit"
+            android:textColor="@android:color/holo_blue_dark"
+            android:layout_marginTop="24dp" />
+    </LinearLayout>
+
+</RelativeLayout>

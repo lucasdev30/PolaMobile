@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">AP4</string>
+    <string name="txtTitre">Choisissez une catégorie</string>
+    <string name="txtBtnRap">Rap</string>
+    <string name="txtBtnElectro">Electro</string>
+    <string name="txtBtnHumour">Humour</string>
+
+    <string name="txtMenuRecherche">Rechercher un artiste</string>
+    <string name="txtMenuPresentation">Presentation</string>
+    <string name="txtMenuDeconnexion">Déconnexion</string>
+
+    <string name="txtMenuItemContact">Contact</string>
+    <string name="txtMenuItemEquipe">Léquipe</string>
+    <string name="txtMenuItemCroissance">Croissance</string>
+
+    <string name="txtListeRap">Liste des artistes de rap</string>
+    <string name="txtListeElectro">Liste des artistes d electro</string>
+    <string name="txtListeHumour">Liste des humoristes</string>
+
+    <string name="txtBtnRetour">Retour</string>
+
+    <string name="txtTitreReservation">Reservation</string>
+    <string name="txtChoixArtiste">Voulez-vous réserver pour cet artiste ?" ?</string>
+    <string name="txtBtnConfirmer">Confirmer</string>
+    <string name="txtBtnAnnuler">Annuler</string>
+
+
+    <string name="txtEditRecherche">Artiste rap, électro..</string>
+    <string name="txtBtnCherche">OK</string>
+    <string name="txtTitreRecherche">Rechercher un artiste</string>
+    <string name="txtRecherche">Quel Evenement recherchez vous ?</string>
+    <string name="txtTitreDemande">Titre demandé :</string>
+
+
+    <string name="hint_email">Email</string>
+    <string name="hint_psw">Mot de passe</string>
+    <string name="btn_connexion">Connexion</string>
+    <string name="txt_non_inscrit">Pas encore inscrit ? Cliquez ici</string>
+    <string name="txtInscription">Enregistrez-vous</string>
+    <string name="txt_deja_inscrit">Déjà parmi nous ? ? Se connecter</string>
+
+
+
+
+
+
+
+
+
+</resources>

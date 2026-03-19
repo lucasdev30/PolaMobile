@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ressources>
+    <ap4 dateConcert="21 mars 2025"  artiste="Vald" prixPlace="35" imgArtiste="vald"/>
+    <ap4 dateConcert="12 décembre 2025"  artiste="Luther" prixPlace="25" imgArtiste="luther"/>
+    <ap4 dateConcert="2 mai 2025"  artiste="Laylow" prixPlace="50" imgArtiste="laylow"/>
+    <ap4 dateConcert="28 septembre 2025"  artiste="Damso" prixPlace="75" imgArtiste="damso"/>
+    <ap4 dateConcert="31 janvier 2025"  artiste="Orelsan" prixPlace="60" imgArtiste="orelsan"/>
+
+</ressources>

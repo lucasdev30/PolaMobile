@@ -1,0 +1,10 @@
+# Config sensibles
+config.php
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
